@@ -18,5 +18,6 @@
   + New db name: new database name
   
 ##### 주의 사항
++ 기본 데이터베이스는 mysql로 설정 (필요시 db_config의 db항목 수정)
 + python3에서만 실행 가능
 + python2.*에서는 실행 불가
